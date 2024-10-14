@@ -1,6 +1,5 @@
 #include "bmi.h"
 
-//ALL ARE PROTOTYPES
 //function that accepts an inch value as parameter, and returns the equivalent value in meters;
 double convertInchesToMeters(double *fInches, double fMeters)
 {
